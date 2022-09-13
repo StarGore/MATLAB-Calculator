@@ -10,7 +10,7 @@ msgbox(sprintf
 
 
 numbers_str = 
-inputdlg({'Enter the first number:', 'Enter the second number:'}
+inputdlg({'Enter the first digit(s):', 'Enter the second digit(s):'}
 );
 
 number1 = 
